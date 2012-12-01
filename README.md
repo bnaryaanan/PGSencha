@@ -1,0 +1,4 @@
+PGSencha
+========
+
+phonegap and sencha
